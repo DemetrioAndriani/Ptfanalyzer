@@ -1,0 +1,15 @@
+it/andrianid/ptfanalyzer/service/model/StatisticaAllaData.class
+it/andrianid/ptfanalyzer/service/dto/StatisticheDto.class
+it/andrianid/ptfanalyzer/service/dto/PtfStatisticheDto.class
+it/andrianid/ptfanalyzer/service/dto/RendimentiDto.class
+it/andrianid/ptfanalyzer/service/model/ScenariFuturi.class
+it/andrianid/ptfanalyzer/service/dto/PortfolioDto.class
+it/andrianid/ptfanalyzer/service/dto/RendimentoConoDto.class
+it/andrianid/ptfanalyzer/service/dto/TitoloDto.class
+it/andrianid/ptfanalyzer/service/model/Titolo.class
+it/andrianid/ptfanalyzer/service/service/StockServiceImpl.class
+it/andrianid/ptfanalyzer/service/dao/TitoloDao.class
+it/andrianid/ptfanalyzer/service/model/OsservazioneStorica.class
+it/andrianid/ptfanalyzer/service/model/Posizione.class
+it/andrianid/ptfanalyzer/service/dao/PortfolioDao.class
+it/andrianid/ptfanalyzer/service/service/StockServiceInterface.class
