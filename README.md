@@ -1,1 +1,1 @@
-Il source code del progetto è reperibile nella release 
+Il source code of the project  is at the bottom right  in "release" 
